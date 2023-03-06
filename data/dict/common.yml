@@ -1,0 +1,100 @@
+- name: AC
+  short_description: Accepted
+  description: Accepted（通过）评测状态的缩写。
+  sources:
+  - https://www.cnblogs.com/sasuke-/p/5516236.html
+  - https://atcoder.jp/contests/abc001/glossary
+  - https://www.luogu.com.cn/blog/luogu/luogu-help
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: CE
+  short_description: Compile Error
+  description: Compile Error（编译错误）评测状态的缩写。
+  sources:
+  - https://atcoder.jp/contests/abc001/glossary
+  - https://www.luogu.com.cn/blog/luogu/luogu-help
+- name: MLE
+  short_description: Memory Limit Exceeded
+  description: Memory Limit Exceeded（超出空间限制）评测状态的缩写。
+  sources:
+  - https://atcoder.jp/contests/abc001/glossary
+  - https://www.luogu.com.cn/blog/luogu/luogu-help
+- name: TLE
+  short_description: Time Limit Exceeded
+  description: Time Limit Exceeded（超出时间限制）评测状态的缩写。
+  sources:
+  - https://atcoder.jp/contests/abc001/glossary
+  - https://www.luogu.com.cn/blog/luogu/luogu-help
+- name: UKE
+  short_description: Unknown Error
+  description: Unknown Error（出现未知错误）评测状态的缩写。常用于表示运气不好。
+  sources:
+  - https://www.luogu.com.cn/blog/luogu/luogu-help
+- name: IE
+  short_description: Internal Error
+  description: Internal Error（内部错误，评测系统错误）评测状态的缩写。
+  sources:
+  - https://atcoder.jp/contests/abc001/glossary
+- name: PC
+  short_description: Partially Correct
+  description: Partially Correct（部分正确）评测状态的缩写。
+  sources:
+  - https://www.luogu.com.cn/blog/luogu/luogu-help
+- name: WA
+  short_description: Wrong Answer
+  description: Wrong Answer（答案错误）评测状态的缩写。
+  sources:
+  - https://atcoder.jp/contests/abc001/glossary
+  - https://www.luogu.com.cn/blog/luogu/luogu-help
+- name: RE
+  short_description: Runtime Error
+  description: Runtime Error（运行时错误）评测状态的缩写。
+  sources:
+  - https://atcoder.jp/contests/abc001/glossary
+  - https://www.luogu.com.cn/blog/luogu/luogu-help
+- name: OLE
+  short_description: Output Limit Exceeded
+  description: Output Limit Exceeded（输出超过限制）评测状态的缩写。
+  sources:
+  - https://atcoder.jp/contests/abc001/glossary
+  - https://www.luogu.com.cn/blog/luogu/luogu-help
+- name: AK
+  short_description: 全部 AC
+  description: All-Killed 的缩写，通常指在信息学竞赛中获得满分（即AC了所有题目）。
+  sources:
+  - https://baike.baidu.com/item/AK/18224776
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: cpp
+  short_description: C++
+  description: 一般指编程语言 C++。
+  sources:
+  - https://baike.baidu.com/item/C%2B%2B
+- name: OI
+  short_description: Olympiad in Informatics
+  description: 信息学奥林匹克竞赛（英语：Olympiad in Informatics，简称：OI）是一门在中学生中广泛开展的学科竞赛，和物理、数学等竞赛性质相同。OI 考察的内容是参赛者运用算法、数据结构和数学知识，通过编写计算机程序解决实际问题的能力。
+  sources:
+  - https://oi-wiki.org/contest/oi/
+- name: OIer
+  short_description: 信息学竞赛生
+  description: 指学信息学竞赛（OI）的学生，故称为 OIer。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: OJ
+  short_description: Online Judge
+  description: Online Judge（在线评测系统）的缩写。
+  sources:
+  - https://www.cnblogs.com/sasuke-/p/5516236.html
+- name: AFO
+  short_description: Away From OI
+  description: Away From OI 的缩写，指 OIer 退役。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: AT
+  short_description: AtCoder
+  description: 一般指日本编程竞赛网站 AtCoder。
+  sources:
+  - https://atcoder.jp/
+- name: CF
+  short_description: Codeforces
+  description: 一般指俄罗斯编程竞赛网站 Codeforces。
+  sources:
+  - https://codeforces.com/

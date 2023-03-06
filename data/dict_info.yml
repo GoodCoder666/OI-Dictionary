@@ -1,0 +1,12 @@
+- name: 通用
+  path: dict/common.yml
+  description: OI专有名词，各方面通用。
+- name: 算法
+  path: dict/algorithm.yml
+  description: 各类算法的名称缩写等。
+- name: 洛谷
+  path: dict/luogu.yml
+  description: 洛谷上常用的非正式用语。
+- name: 生活
+  path: dict/life.yml
+  description: OIer在生活中的常用词。

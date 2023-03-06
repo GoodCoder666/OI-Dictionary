@@ -1,0 +1,158 @@
+- name: 蒟蒻
+  short_description: 同“巨弱”
+  description: “巨弱”的谐音。指在某些方面很弱的人，但一般被用于大佬虚伪。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://baike.baidu.com/item/%E8%92%9F%E8%92%BB/23658582
+  - https://zh.moegirl.org.cn/OI%E6%A2%97
+- name: 萌新
+  short_description: 刚刚学OI的人
+  description: 指刚刚学OI的人，但一般也被用于大佬虚伪。比如“萌新刚学OI，求教xxx”。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://baike.baidu.com/item/%E8%90%8C%E6%96%B0/17785202
+- name: 神犇
+  short_description: 在OI方面很强的人
+  description: 指在OI方面很强的人，与“蒟蒻”相对。同“神仙”。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://zh.moegirl.org.cn/OI%E6%A2%97
+- name: 神仙
+  short_description: 在OI方面很强的人
+  description: 指在OI方面很强的人，与“蒟蒻”相对。同“神犇”。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: /kk
+  short_description: QQ中的表情
+  description: 在 QQ 聊天界面打出“/kk”可以打出一个很沮丧的表情（原意快哭了），因此指内心委屈，沮丧等。常用于大佬装蒻。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: emmm
+  short_description: 表思考
+  description: 无太大实际意义，可以理解为“嗯.....”，有思考+敷衍之意。
+  sources:
+  - https://baike.baidu.com/item/emmm/22198002
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: （雾
+  short_description: 表示感到迷惑
+  description: 表示感到迷惑，或者也不清楚自己说的是否正确。常见于帖子评论区。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: 1=
+  short_description: 一等
+  description: “一等”的谐音，常用于描述奖项。<br />类似的还有2=、3=。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: 2=
+  short_description: 二等
+  description: “二等”的谐音，常用于描述奖项。<br />类似的还有1=、3=。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: 3=
+  short_description: 三等
+  description: “三等”的谐音，常用于描述奖项。<br />类似的还有1=、2=。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: 伸手党
+  short_description: 不思考就向他人寻求答案的人
+  description: 表示一些不经过思考、自行寻找答案或尝试解决问题，而理直气壮地向他人寻求答案或者索取成果的人。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: ssd
+  short_description: 伸手党
+  description: 表示一些不经过思考、自行寻找答案或尝试解决问题，而理直气壮地向他人寻求答案或者索取成果的人。<br />SSD 也是固态硬盘（solid-state drive）的缩写。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://zhuanlan.zhihu.com/p/46607534
+- name: whk
+  short_description: 文化课
+  description: “文化课”的拼音首字母。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: 膜拜
+  short_description: 对一个人的能力发出赞叹
+  description: 当你认为一个人很强时，会对他的能力发出赞叹，同膜拜的字面意义。可以简称为膜。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: "%%%"
+  short_description: 膜拜
+  description: 由于 % 在 C++ 中为取模运算，与“膜”谐音，故也有膜拜之意。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://zh.moegirl.org.cn/OI%E6%A2%97
+- name: orz
+  short_description: 下跪，膜拜
+  description: 象形文字，“O”可以抽象成人头部，“r”可以抽象成人的手臂和躯干，“z”可以抽象成腿。总的来看就是下跪的姿势，也表示对一个人的膜拜。同“sto”。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: sto
+  short_description: 下跪，膜拜
+  description: 象形文字，“O”可以抽象成人头部，“t”可以抽象成人的手臂和躯干，“s”可以抽象成腿。总的来看就是下跪的姿势，也表示对一个人的膜拜。同“orz”。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: 咕咕
+  short_description: 放鸽子
+  description: 可以理解为放鸽子，即不守约定、一拖再拖。缩写为“gg”。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: gg
+  short_description: 同“咕咕”
+  description: 可以理解为放鸽子，即不守约定、一拖再拖。同“咕咕”。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: 爆零
+  short_description: 在OI中拿到零分
+  description: 指在一场比赛或者一道题中拿到零分的好成绩，常见于大佬装弱。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: 抱灵
+  short_description: 同“爆零”
+  description: 指在一场比赛或者一道题中拿到零分的好成绩，常见于大佬装弱。同“爆零”。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: tql
+  short_description: 太强了
+  description: “太强了”的缩写，常用于膜拜他人。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: wtcl
+  short_description: 我太菜了
+  description: “我太菜了”的缩写，常用于大佬虚伪。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: wzbl
+  short_description: 我自闭了
+  description: “我自闭了（啦）”的缩写，常用于大佬虚伪。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: lol
+  short_description: laugh out loud
+  description: laugh out loud 的缩写，表示大笑，同义的还有 XD，:D，;D 等。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: 铜球
+  short_description: 同求
+  description: 同求的谐音，表示有相同需求。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: Cu ball
+  short_description: 同求
+  description: 同求的谐音，表示有相同需求。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: BDFS
+  short_description: 百度优先搜索
+  description: 百度优先搜索（BaiDu First Search）的简称，一般用于批判伸手党。
+  sources:
+  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: "233"
+  short_description: 啊哈哈，非常好笑
+  description: 233是一个网络用语，大致就是啊哈哈，非常好笑的意思。
+  sources:
+  - https://baike.baidu.com/item/233/1092583
+- name: xmsl
+  short_description: 羡慕死了
+  description: 233是一个网络用语，大致就是啊哈哈，非常好笑的意思。
+  sources:
+  - https://www.zhihu.com/question/300386716
+  - https://zhidao.baidu.com/question/1546903811628290187.html

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>icons/search.png</file>
+    <file>icons/dictionary.png</file>
+  </qresource>
+</RCC>

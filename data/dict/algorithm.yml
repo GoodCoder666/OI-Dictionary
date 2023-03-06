@@ -1,0 +1,199 @@
+# 图论部分 https://oi-wiki.org/graph/
+- name: graph
+  short_description: 图
+  description: 图（Graph）是<strong>由若干给定的顶点及连接两顶点的边所构成的图形</strong>，这种图形通常用来描述某些事物之间的某种特定关系。顶点用于代表事物，连接两顶点的边则用于表示两个事物间具有这种关系。
+  sources:
+  - https://oi-wiki.org/graph/
+- name: graph theory
+  short_description: 图论
+  description: 图论（Graph theory）是数学的一个分支，图（Graph）是图论的主要研究对象。
+  sources:
+  - https://oi-wiki.org/graph/
+- name: DFS
+  short_description: 深度优先搜索
+  description: DFS（Depth First Search，深度优先搜索）是一种用于遍历或搜索树或图的算法。
+  sources:
+  - https://oi-wiki.org/graph/dfs/
+  - https://zhuanlan.zhihu.com/p/41307874
+- name: BFS
+  short_description: 广度优先搜索
+  description: BFS 的全称是 Breadth First Search，中文名是宽度优先搜索，也叫广度优先搜索。
+  sources:
+  - https://oi-wiki.org/graph/bfs/
+  - https://zhuanlan.zhihu.com/p/41307874
+- name: LCA
+  short_description: 最近公共祖先
+  description: 最近公共祖先简称 LCA（Lowest Common Ancestor）。在一棵树上，两个节点的最近公共祖先，就是这两个点的公共祖先里面，离根最远的那个。
+  sources:
+  - https://oi-wiki.org/graph/lca/
+- name: 树链剖分
+  short_description: 一种树上的算法
+  description: 树链剖分算法可以将树分割成若干条链的形式，以维护树上路径的信息。
+  sources:
+  - https://oi-wiki.org/graph/hld/
+- name: 树剖
+  short_description: 树链剖分
+  description: 同“树链剖分”，此算法可以将树分割成若干条链的形式，以维护树上路径的信息。
+  sources:
+  - https://oi-wiki.org/graph/hld/
+- name: AHU
+  short_description: 用于判断两棵有根树是否同构的算法
+  description: AHU 算法用于判断两棵有根树是否同构。
+  sources:
+  - https://oi-wiki.org/graph/tree-ahu/
+- name: 树哈希
+  short_description: 计算一棵树哈希值的算法
+  description: 判断一些树是否同构的时，我们常常把这些树转成哈希值储存起来，以降低复杂度。这种算法被称为“树哈希”。
+  sources:
+  - https://oi-wiki.org/graph/tree-hash/
+  - https://www.luogu.com.cn/problem/P5043
+- name: 矩阵树定理
+  short_description: 计算一张图的生成树个数计数的方法
+  description: 判断一些树是否同构的时，我们常常把这些树转成哈希值储存起来，以降低复杂度。这种算法被称为“树哈希”。
+  sources:
+  - https://oi-wiki.org/graph/matrix-tree/
+  - https://blog.csdn.net/TK_wang_/article/details/108202103
+- name: 有向无环图
+  short_description: 边有向，无环的图
+  description: 边有向，无环的图。英文名叫 Directed Acyclic Graph，缩写是 DAG。
+  sources:
+  - https://oi-wiki.org/graph/dag/
+- name: DAG
+  short_description: 有向无环图
+  description: 边有向，无环的图。英文名叫 Directed Acyclic Graph，缩写是 DAG。
+  sources:
+  - https://oi-wiki.org/graph/dag/
+- name: 拓扑排序
+  short_description: 给一个图的所有节点排序的算法
+  description: 拓扑排序的英文名是 Topological sorting，要解决的问题是给一个图的所有节点排序。
+  sources:
+  - https://oi-wiki.org/graph/topo/
+- name: Topological sort
+  short_description: 拓扑排序
+  description: 拓扑排序的英文名是 Topological sorting，要解决的问题是给一个图的所有节点排序。
+  sources:
+  - https://oi-wiki.org/graph/topo/
+- name: 最小生成树
+  short_description: 无向连通图中边权和最小的生成树
+  description: 无向连通图的 <strong>最小生成树</strong>（Minimum Spanning Tree，MST）为边权和最小的生成树。
+  sources:
+  - https://oi-wiki.org/graph/mst/
+- name: MST
+  short_description: 最小生成树
+  description: 无向连通图的 最小生成树（Minimum Spanning Tree，<strong>MST</strong>）为边权和最小的生成树。
+  sources:
+  - https://oi-wiki.org/graph/mst/
+- name: 最短路
+  short_description: 图中两点之间边权之和最小的路径
+  description: 最短路（Shortest Path）一般指<strong>图中两点之间边权之和最小的路径</strong>。
+  sources:
+  - https://oi-wiki.org/graph/shortest-path/
+- name: shortest path
+  short_description: 最短路
+  description: 最短路（<strong>Shortest path</strong>）一般指图中两点之间边权之和最小的路径。
+  sources:
+  - https://oi-wiki.org/graph/shortest-path/
+- name: k短路
+  short_description: 图中两点之间边权之和第k小的路径
+  description: k短路（<strong>K-th shortest path</strong>）图中两点之间边权之和第k小的路径。
+  sources:
+  - https://oi-wiki.org/graph/kth-path/
+- name: 欧拉回路
+  short_description: 通过图中每条边恰好一次的回路
+  description: 指通过图中每条边恰好一次的回路。
+  sources:
+  - https://oi-wiki.org/graph/euler/
+- name: 欧拉通路
+  short_description: 通过图中每条边恰好一次的通路
+  description: 指通过图中每条边恰好一次的通路。
+  sources:
+  - https://oi-wiki.org/graph/euler/
+- name: 欧拉图
+  short_description: 具有欧拉回路的图
+  description: 指具有欧拉回路的图。
+  sources:
+  - https://oi-wiki.org/graph/euler/
+- name: 半欧拉图
+  short_description: 具有欧拉通路但不具有欧拉回路的图
+  description: 指具有欧拉通路但不具有欧拉回路的图。
+  sources:
+  - https://oi-wiki.org/graph/euler/
+- name: 二分图
+  short_description: 节点由两个集合组成，且两个集合内部没有边的图
+  description: 二分图，又称二部图，英文名叫 Bipartite graph。二分图是什么？<strong>节点由两个集合组成，且两个集合内部没有边的图</strong>。
+  sources:
+  - https://oi-wiki.org/graph/bi-graph/
+- name: bipartite graph
+  short_description: 二分图
+  description: 二分图，又称二部图，英文名叫 <strong>Bipartite graph</strong>。二分图是什么？节点由两个集合组成，且两个集合内部没有边的图。
+  sources:
+  - https://oi-wiki.org/graph/bi-graph/
+- name: 最小环
+  short_description: 图中由n个节点构成的边权和最小的环
+  description: 给出一个图，问其中的由 n 个节点构成的边权和最小的环 (n >= 3) 是多大。
+  sources:
+  - https://oi-wiki.org/graph/min-cycle/
+
+# 搜索部分 https://oi-wiki.org/search/
+- name: search
+  short_description: 搜索
+  description: 搜索，也就是对状态空间进行枚举，通过穷尽所有的可能来找到最优解，或者统计合法解的个数。<br />搜索有很多优化方式，如减小状态空间，更改搜索顺序，剪枝等。
+  sources:
+  - https://oi-wiki.org/search/
+- name: 双向同时搜索
+  short_description: 从两边同时进行搜索
+  description: 双向同时搜索是双向搜索的一种。其基本思路是从状态图上的起点和终点同时开始进行 BFS 或 DFS。如果发现搜索的两端相遇了，那么可以认为是获得了可行解。
+  sources:
+  - https://oi-wiki.org/search/bidirectional/
+- name: Meet in the middle
+  short_description: 从两边同时进行搜索
+  description: Meet in the middle 算法没有正式译名，常见的翻译为「折半搜索」、「双向搜索」或「中途相遇」。它适用于输入数据较小，但还没小到能直接使用暴力搜索的情况。
+  sources:
+  - https://oi-wiki.org/search/bidirectional/
+- name: 启发式搜索
+  short_description: 在普通搜索算法的基础上引入了启发式函数的搜索算法
+  description: 启发式搜索（英文：heuristic search）是一种在普通搜索算法的基础上引入了启发式函数的搜索算法。
+  sources:
+  - https://oi-wiki.org/search/heuristic/
+- name: heuristic search
+  short_description: 启发式搜索
+  description: 启发式搜索（英文：heuristic search）是一种在普通搜索算法的基础上引入了启发式函数的搜索算法。
+  sources:
+  - https://oi-wiki.org/search/heuristic/
+- name: A*
+  short_description: 一种最短路算法
+  description: A * 搜索算法（英文：A*search algorithm，A * 读作 A-star），简称 A * 算法，是一种在图形平面上，对于有多个节点的路径求出最低通过成本的算法。它属于图遍历（英文：Graph traversal）和最佳优先搜索算法（英文：Best-first search），亦是 BFS 的改进。
+  sources:
+  - https://oi-wiki.org/search/astar/
+- name: 迭代加深搜索
+  short_description: 一种每次限制搜索深度的深度优先搜索
+  description: 迭代加深是一种 <strong>每次限制搜索深度的</strong> 深度优先搜索。
+  sources:
+  - https://oi-wiki.org/search/iterative/
+- name: IDA*
+  short_description: 采用了迭代加深算法的 A* 算法。
+  description: IDA* 为采用了迭代加深算法的 A* 算法。
+  sources:
+  - https://oi-wiki.org/search/idastar/
+  - https://oi-wiki.org/search/astar/
+  - https://oi-wiki.org/search/iterative/
+- name: 回溯
+  short_description: “走不通就回头”的算法
+  description: 回溯法是一种经常被用在 深度优先搜索（DFS） 和 广度优先搜索（BFS） 的技巧。<br />其本质是：走不通就回头。
+  sources:
+  - https://oi-wiki.org/search/backtracking/
+- name: Dancing Links
+  short_description: 用来优化 X 算法的双向十字链表
+  description: Dancing Links 简称 DLX，是用来优化 X 算法的双向十字链表。
+  sources:
+  - https://oi-wiki.org/search/dlx/
+- name: DLX
+  short_description: Dancing Links
+  description: Dancing Links 简称 DLX，是用来优化 X 算法的双向十字链表。
+  sources:
+  - https://oi-wiki.org/search/dlx/
+- name: Alpha-Beta 剪枝
+  short_description: DFS 的一种优化方式
+  description: DFS 的一种优化方式，详见 OI Wiki。
+  sources:
+  - https://oi-wiki.org/search/alpha-beta/
