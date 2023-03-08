@@ -98,3 +98,46 @@
   description: 一般指俄罗斯编程竞赛网站 Codeforces。
   sources:
   - https://codeforces.com/
+- name: NOIP
+  short_description: 全国青少年信息学奥林匹克联赛
+  description: 指全国青少年信息学奥林匹克联赛（National Olympiad in Informatics in Provinces，简称 NOIP）。
+  sources:
+  - https://oi-wiki.org/contest/oi/
+  - https://baike.baidu.com/item/全国青少年信息学奥林匹克联赛/9556947
+- name: NOI
+  short_description: 全国青少年信息学奥林匹克竞赛
+  description: 指全国青少年信息学奥林匹克竞赛（National Olympiad in Informatics，简称 NOI）。
+  sources:
+  - https://oi-wiki.org/contest/oi/
+  - https://baike.baidu.com/item/全国青少年信息学奥林匹克竞赛/9860253
+- name: WC
+  short_description: 全国青少年信息学奥林匹克竞赛冬令营
+  description: 一般指全国青少年信息学奥林匹克竞赛冬令营（National Olympiad in Informatics Winter Camp，简称 NOIWC 或 WC）。
+  sources:
+  - https://oi-wiki.org/contest/oi/
+  - https://baike.baidu.com/item/全国青少年信息学奥林匹克竞赛冬令营
+- name: CTSC
+  short_description: 国际信息学奥林匹克竞赛中国队选拔赛
+  description: 指国际信息学奥林匹克竞赛中国队选拔赛（CTSC）。
+  sources:
+  - https://oi-wiki.org/contest/oi/
+- name: IOI
+  short_description: 国际信息学奥林匹克
+  description: 指国际信息学奥林匹克（IOI）。
+  sources:
+  - https://oi-wiki.org/contest/oi/
+- name: USACO
+  short_description: 美国计算机奥林匹克竞赛
+  description: 指美国计算机奥林匹克竞赛（USACO）。
+  sources:
+  - https://oi-wiki.org/contest/oi/
+- name: JOI
+  short_description: 日本信息学奥林匹克
+  description: 一般指日本信息学奥林匹克（JOI）。
+  sources:
+  - https://oi-wiki.org/contest/oi/
+- name: APIO
+  short_description: 亚太地区信息学奥林匹克
+  description: 指亚太地区信息学奥林匹克（APIO）。
+  sources:
+  - https://oi-wiki.org/contest/oi/

@@ -83,6 +83,21 @@
   description: 无向连通图的 最小生成树（Minimum Spanning Tree，<strong>MST</strong>）为边权和最小的生成树。
   sources:
   - https://oi-wiki.org/graph/mst/
+- name: Kruskal
+  short_description: 求解最小生成树问题的常用算法之一
+  description: Kruskal 算法是一种常见并且好写的最小生成树算法，由 Kruskal 发明。该算法的基本思想是从小到大加入边，是个贪心算法。
+  sources:
+  - https://oi-wiki.org/graph/mst/
+- name: Boruvka
+  short_description: 一种求解最小生成树问题的算法
+  description: Boruvka 算法的思想是 Kruskal 和 Prim 算法的结合。它可以用于求解 <strong>边权互不相同</strong> 的无向图的最小生成森林。
+  sources:
+  - https://oi-wiki.org/graph/mst/
+- name: Prim
+  short_description: 求解最小生成树问题的常用算法之一
+  description: Prim 算法是一种常见并且好写的最小生成树算法。该算法的基本思想是从一个结点开始，不断加点（而不是 Kruskal 算法的加边）。
+  sources:
+  - https://oi-wiki.org/graph/mst/
 - name: 最短路
   short_description: 图中两点之间边权之和最小的路径
   description: 最短路（Shortest Path）一般指<strong>图中两点之间边权之和最小的路径</strong>。
@@ -93,6 +108,28 @@
   description: 最短路（<strong>Shortest path</strong>）一般指图中两点之间边权之和最小的路径。
   sources:
   - https://oi-wiki.org/graph/shortest-path/
+- name: Floyd
+  short_description: 一种多源最短路算法
+  description: Floyd 算法是用来求任意两个结点之间的最短路的，简称多源最短路。复杂度比较高，但是常数小，容易实现。
+  sources:
+  - https://oi-wiki.org/graph/shortest-path/
+  - https://blog.csdn.net/write_1m_lines/article/details/126310381
+- name: Bellman-Ford
+  short_description: 一种基于松弛操作的最短路算法
+  description: Bellman-Ford 算法是一种基于松弛（relax）操作的最短路算法，可以求出有负权的图的最短路，并可以对最短路不存在的情况进行判断。
+  sources:
+  - https://oi-wiki.org/graph/shortest-path/
+- name: SPFA
+  short_description: Shortest Path Faster Algorithm
+  description: SPFA 是 Bellman-Ford 的一种优化。
+  sources:
+  - https://oi-wiki.org/graph/shortest-path/
+- name: Dijkstra
+  short_description: 一种求解非负权图上单源最短路径的算法
+  description: Dijkstra（/ˈdikstrɑ/或/ˈdɛikstrɑ/）算法由荷兰计算机科学家 E. W. Dijkstra 于 1956 年发现，1959 年公开发表。是一种求解 <strong>非负权图</strong> 上单源最短路径的算法。
+  sources:
+  - https://oi-wiki.org/graph/shortest-path/
+  - https://blog.csdn.net/write_1m_lines/article/details/126316941
 - name: k短路
   short_description: 图中两点之间边权之和第k小的路径
   description: k短路（<strong>K-th shortest path</strong>）图中两点之间边权之和第k小的路径。
@@ -171,7 +208,7 @@
   sources:
   - https://oi-wiki.org/search/iterative/
 - name: IDA*
-  short_description: 采用了迭代加深算法的 A* 算法。
+  short_description: 采用了迭代加深算法的A*算法
   description: IDA* 为采用了迭代加深算法的 A* 算法。
   sources:
   - https://oi-wiki.org/search/idastar/

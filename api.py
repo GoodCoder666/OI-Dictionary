@@ -7,7 +7,10 @@ __all__ = ['load_database', 'search']
 
 def _read_yml(filename):
     with open(filename, 'r', encoding='utf-8') as file:
-        return CSafeLoader(file).get_single_data()
+        loader = CSafeLoader(file)
+        data = loader.get_single_data()
+        loader.dispose()
+        return data
 
 def load_database(data_path='./data', info_file='dict_info.yml'):
     return [(db['name'], db['description'], _read_yml(join(data_path, db['path']))) for db in _read_yml(join(data_path, info_file))]
