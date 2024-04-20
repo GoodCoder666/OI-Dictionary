@@ -86,8 +86,8 @@ A: 主要有三点：
     sources: # 来源，可以有多个
     - https://www.cnblogs.com/sasuke-/p/5516236.html
     - https://atcoder.jp/contests/abc001/glossary
-    - https://www.luogu.com.cn/blog/luogu/luogu-help
-    - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+    - https://help.luogu.com.cn/manual/luogu/problem/judging
+    - https://www.luogu.com/article/lwr2bdre
   - name: CE
     short_description: Compile Error
     description: Compile Error（编译错误）评测状态的缩写。
@@ -99,5 +99,5 @@ A: 主要有三点：
 
 本项目使用 [GPLv3 版权许可](./LICENSE)。特别鸣谢：
 
-- [洛谷词典](https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary)：大部分洛谷/生活词汇的出处
+- [洛谷词典](https://www.luogu.com/article/lwr2bdre)：大部分洛谷/生活词汇的出处
 - [OI Wiki](https://oi-wiki.org/)：大部分算法词汇的出处
