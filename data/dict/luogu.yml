@@ -2,227 +2,329 @@
   short_description: 洛谷
   description: 同“某谷”，均指洛谷。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 某谷
   short_description: 洛谷
   description: 同“你谷”，均指洛谷。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: fake
   short_description: 虚伪的大佬
   description: 指虚伪的大佬。同“FAKE”。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
   - https://zh.moegirl.org.cn/OI%E6%A2%97
 - name: fAKe
   short_description: 可以AK的大佬
   description: 与“fake”（虚伪的大佬）相近，但强调了大佬可以AK。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
   - https://zh.moegirl.org.cn/OI%E6%A2%97
 - name: 珂学
   short_description: 珂朵莉相关内容
   description: 指珂朵莉有关内容。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: €€£
   short_description: CCF
   description: 一般指 CCF（China Computer Federation，中国计算机学会）。这个称号形象地反映了 CCF 的特点。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
   - https://www.zhihu.com/question/346252239
 - name: slay
   short_description: 网页游戏 slay.one
   description: 指2018年暑假起爆红洛谷的网页在线小游戏 slay.one。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
-  - https://www.luogu.com.cn/blog/FCBM71/slayone-weapons
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com/article/nkm8i54s
+  - https://slay.one/
 - name: xxs
   short_description: 小学生
   description: 小学生的谐音。泛指心智、言论不成熟的人。同“线性筛”“稀硝酸”“信息素”。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 机房惨案
   short_description: 盗用别人的账号搞事
   description: 狭义上指在机房内盗用别人的账号搞事，例如发布 I AK IOI。广义上指盗用别人的账号搞事。同“jfca”。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: jfca
   short_description: 盗用别人的账号搞事
   description: 狭义上指在机房内盗用别人的账号搞事，例如发布 I AK IOI。广义上指盗用别人的账号搞事。同“机房惨案”。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 谔谔
   short_description: 无实际意义
   description: 无太大实际意义，同“我谔谔”，可以缩写为 IEE。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 毒瘤
   short_description: 很难且坑的题
   description: 指很难且坑的题，也可以指出此类题目的出题人，还可以指洛谷知名管理 @noip
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
   - https://www.luogu.com.cn/user/3296
   - https://www.zhihu.com/question/312757516
 - name: 前排
   short_description: 帖子靠前的评论位置
   description: 表示一条帖子的前几个评论位置，缩写为 qp，与“后排”相对。常用搭配：前排兜售xxx，前排资瓷。无太大实际意义。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 后排
   short_description: 帖子靠后的评论位置
   description: 表示帖子靠后的评论位置，与“前排”相对。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 陶片
   short_description: 洛谷的陶片放逐板块
   description: 指洛谷处决用户的刑场陶片放逐板块。同“桃片”。
   sources:
   - https://www.luogu.com.cn/judgement
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 好氧
   short_description: 开启O2优化之后效率有显著提升的程序
   description: 指开启O2优化之后效率有显著提升的程序，与“厌氧”“氧中毒”相对。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 厌氧
   short_description: 开启O2优化之后效率有显著降低或者出错的程序
   description: 指开启O2优化之后效率有显著降低或者出错的程序。同“氧中毒”，与“好氧”相对。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 氧中毒
   short_description: 开启O2优化之后效率有显著降低或者出错的程序
   description: 指开启O2优化之后效率有显著降低或者出错的程序。同“厌氧”，与“好氧”相对。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
-- name: ub
-  short_description: Undefined Behavior
-  description: ub 即 Undefined Behavior，指 C++ 中程序未定义行为，程序“不同机器上运行结果不同”“开O2后反而WA”大都与此有关。
-  sources:
-  - https://www.luogu.com.cn/blog/StudyingFather/undefined-behavior
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: feature
   short_description: bug 的调侃说法
   description: 常用于表示“这不是bug，而是洛谷特色功能（feature）”。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: spfa
   short_description: 源于NOI2018的梗
   description: 源于NOI2018的梗，当时出题人直言spfa这种算法被卡，所以spfa常表示“死了”之意。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 考古
   short_description: 回顾远古帖子
   description: 常见于某个远古帖子的评论区，无太大实际意义。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 烤谷
   short_description: 同“考古”
   description: 常见于某个远古帖子的评论区，无太大实际意义。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 资瓷
   short_description: “支持”的谐音
   description: “支持”的谐音，常见于帖子的评论区。常用搭配：前排资瓷。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 兹瓷
   short_description: “支持”的谐音
   description: “支持”的谐音，常见于帖子的评论区。常用搭配：前排兹瓷。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: NOIp
   short_description: 有复活之义
   description: 源于NOIp比赛在2019年8月停办，2020年1月又恢复，因此有复活之义。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 爆破
   short_description: 用户或团队被封禁
   description: 指某个用户或者某个团队被封禁，或者失去其功能。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 钓鱼
   short_description: 无意义的讨论赢得回复
   description: 指无意义的讨论赢得回复等。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 海星
   short_description: 还行
   description: “还行”的谐音。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: qndmx
   short_description: 去你的萌新
   description: “去你的萌新”的缩写。常见于大佬虚伪帖子，如《萌新刚学OI，求教平衡树》的评论区。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: nhml
   short_description: 你号没了
   description: 你号没了的缩写。常见于敏感内容相关的帖子评论区。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 刘明
   short_description: 留名
   description: 与“留名”谐音。常用语在某个帖子下面，见证自己来过这里并留下名字（可类比为xxx到此一游）
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 火钳刘明
   short_description: 火前留名
   description: 与“火前留名”谐音。表示你认为这个帖子会火，并提前留名。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: hqlm
   short_description: 火前留名
   description: 与“火前留名”谐音。表示你认为这个帖子会火，并提前留名。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 山前刘明
   short_description: 删前留名
   description: 与“删前留名”谐音。表示你认为这个帖子讨论了某些敏感话题或者无意义话题，可能会被管理员删掉，并提前留名。常常也被翻译为 Write/Leave my name in front of the mountain(s)。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: sqlm
   short_description: 删前留名
   description: 与“删前留名”谐音。表示你认为这个帖子讨论了某些敏感话题或者无意义话题，可能会被管理员删掉，并提前留名。常常也被翻译为 Write/Leave my name in front of the mountain(s)。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 火神山刘明
   short_description: 各种留名的组合形式
   description: 即火前留名，神帖留名，山前刘明的组合形式。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: rt
   short_description: 如题
   description: “如题”的缩写，意为如标题所说。常见于帖子的第一行第一句。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 望丰展？使MD
   short_description: 没有使用代码框框住代码
   description: “希望更丰富的展现？使用Markdown”的缩写。常见于没有使用代码框框住代码的求助帖评论区。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 希丰展？使MD
   short_description: 没有使用代码框框住代码
   description: “希望更丰富的展现？使用Markdown”的缩写。常见于没有使用代码框框住代码的求助帖评论区。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 洛谷日爆
   short_description: 洛谷服务器崩溃
   description: 由于洛谷近期频繁502，故使用了洛谷日报的谐音来表示洛谷服务器崩溃。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: 破事氵
   short_description: 对灌水帖的不满
   description: 表示对某一些灌水帖的行为的不满。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: p事水
   short_description: 对灌水帖的不满
   description: 表示对某一些灌水帖的行为的不满。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: btdjbl
   short_description: 标题党，举报了
   description: “标题党，举报了”的首字母缩写。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
+- name: kkk
+  short_description: 洛谷站长 kkksc03
+  description: 指洛谷站长 @kkksc03。同“3k”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/1
+- name: 3k
+  short_description: 洛谷站长 kkksc03
+  description: 指洛谷站长 @kkksc03。同“kkk”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/1
+- name: ltt
+  short_description: 洛谷站长技术官 lin_toto
+  description: 指洛谷站长技术官 @lin_toto。同“林兔兔”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/256
+- name: 林兔兔
+  short_description: 洛谷站长技术官 lin_toto
+  description: 指洛谷站长技术官 @lin_toto。同“ltt”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/256
+- name: cz
+  short_description: 洛谷管理员 chen_zhe
+  description: 指洛谷管理员 @<strong>c</strong>hen_<strong>z</strong>he。同“绿鸟”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/8457
+- name: 绿鸟
+  short_description: 洛谷管理员 chen_zhe
+  description: 指洛谷管理员 @<strong>c</strong>hen_<strong>z</strong>he（绿鸟是cz早期的头像）。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/8457
+- name: lxl
+  short_description: 洛谷管理员 noip 的真名
+  description: 指洛谷管理员 @noip 的真名。常用“duliu”（毒瘤）形容其出题特点。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/3296
+- name: duliu
+  short_description: 毒瘤
+  description: 毒瘤，常用于形容洛谷管理员 @noip 的出题特点。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/3296
+- name: 鰰
+  short_description: 洛谷管理员 Nacly_Fish
+  description: 指洛谷管理员 @Nacly_<strong>Fish</strong>。同“神鱼”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/115864
+- name: 神鱼
+  short_description: 洛谷管理员 Nacly_Fish
+  description: 指洛谷管理员 @Nacly_<strong>Fish</strong>。同“鰰”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/115864
+- name: 神兔
+  short_description: 洛谷管理员 小粉兔
+  description: 指洛谷管理员 @小粉<strong>兔</strong>。同“兔队”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/10703
+- name: 兔队
+  short_description: 洛谷管理员 小粉兔
+  description: 指洛谷管理员 @小粉<strong>兔</strong>。同“神兔”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/10703
+- name: main包
+  short_description: 洛谷前管理 扩散性百万甜面包/himself65
+  description: 洛谷前管理 @扩散性百万甜<strong>面包</strong>（曾用名 himself65）。同“面包”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/72813
+- name: 面包
+  short_description: 洛谷前管理 扩散性百万甜面包/himself65
+  description: 洛谷前管理 @扩散性百万甜<strong>面包</strong>（曾用名 himself65）。同“main包”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/72813
+- name: zwc
+  short_description: 洛谷前管理 zhouwc
+  description: 指洛谷前管理 @<strong>z</strong>hou<strong>wc</strong>。又称“指挥使”“野心家”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/20218
+- name: 指挥使
+  short_description: 洛谷前管理 zhouwc
+  description: 指洛谷前管理 @<strong>z</strong>hou<strong>wc</strong>。又称“zwc”“野心家”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/20218
+- name: 野心家
+  short_description: 洛谷前管理 zhouwc
+  description: 指洛谷前管理 @<strong>z</strong>hou<strong>wc</strong>。又称“指挥使”“zwc”。
+  sources:
+  - https://www.luogu.com/article/lwr2bdre
+  - https://www.luogu.com.cn/user/20218
+- name: flow
+  short_description: 网络流
+  description: “网络流”的简写。
+  sources:
+  - https://oi-wiki.org/graph/flow/

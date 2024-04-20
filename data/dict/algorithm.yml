@@ -135,6 +135,11 @@
   description: k短路（<strong>K-th shortest path</strong>）图中两点之间边权之和第k小的路径。
   sources:
   - https://oi-wiki.org/graph/kth-path/
+- name: 2-SAT
+  short_description: 一种布尔逻辑问题
+  description: 给定一组布尔变量和一组布尔约束，判断是否存在一种赋值使得所有约束都为真。这种问题被称为 2-SAT 问题。
+  sources:
+  - https://oi-wiki.org/graph/2-sat/
 - name: 欧拉回路
   short_description: 通过图中每条边恰好一次的回路
   description: 指通过图中每条边恰好一次的回路。
@@ -155,14 +160,37 @@
   description: 指具有欧拉通路但不具有欧拉回路的图。
   sources:
   - https://oi-wiki.org/graph/euler/
+- name: 网络流
+  short_description: 网络中的流量/网络流相关问题
+  description: 一般指 OI 中网络流相关问题。常见的三种类型分别为最大流、最小割、费用流。
+  sources:
+  - https://oi-wiki.org/graph/flow/
+- name: 最大流
+  short_description: 一种网络流问题
+  description: 最大流（Maximum Flow），网络中从源点到汇点可通过的最大流量。OI 中，通常指使用最大流算法解决的一类问题。
+  sources:
+  - https://oi-wiki.org/graph/flow/
+  - https://oi-wiki.org/graph/max-flow/
+- name: 最小割
+  short_description: 一种网络流问题
+  description: 最小割（Minimum Cut），网络中容量最小的割。根据<strong>最大流最小割定理</strong>，最小割等于最大流。OI 中，通常指最小割相关问题。
+  sources:
+  - https://oi-wiki.org/graph/flow/
+  - https://oi-wiki.org/graph/flow/min-cut/
+- name: 费用流
+  short_description: 一种网络流问题
+  description: 费用流，常指最小费用最大流，即在流量最大化的基础上，实现费用最小化。OI 中，通常指使用费用流算法解决的一类问题。
+  sources:
+  - https://oi-wiki.org/graph/flow/
+  - https://oi-wiki.org/graph/flow/min-cost/
 - name: 二分图
   short_description: 节点由两个集合组成，且两个集合内部没有边的图
-  description: 二分图，又称二部图，英文名叫 Bipartite graph。二分图是什么？<strong>节点由两个集合组成，且两个集合内部没有边的图</strong>。
+  description: 二分图，又称二部图，英文名叫 Bipartite graph。二分图是节点由两个集合组成，且两个集合内部没有边的图。
   sources:
   - https://oi-wiki.org/graph/bi-graph/
 - name: bipartite graph
   short_description: 二分图
-  description: 二分图，又称二部图，英文名叫 <strong>Bipartite graph</strong>。二分图是什么？节点由两个集合组成，且两个集合内部没有边的图。
+  description: 二分图，又称二部图，英文名叫 <strong>Bipartite graph</strong>。二分图是节点由两个集合组成，且两个集合内部没有边的图。
   sources:
   - https://oi-wiki.org/graph/bi-graph/
 - name: 最小环

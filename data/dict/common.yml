@@ -4,31 +4,31 @@
   sources:
   - https://www.cnblogs.com/sasuke-/p/5516236.html
   - https://atcoder.jp/contests/abc001/glossary
-  - https://www.luogu.com.cn/blog/luogu/luogu-help
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://help.luogu.com.cn/manual/luogu/problem/judging
+  - https://www.luogu.com/article/lwr2bdre
 - name: CE
   short_description: Compile Error
   description: Compile Error（编译错误）评测状态的缩写。
   sources:
   - https://atcoder.jp/contests/abc001/glossary
-  - https://www.luogu.com.cn/blog/luogu/luogu-help
+  - https://help.luogu.com.cn/manual/luogu/problem/judging
 - name: MLE
   short_description: Memory Limit Exceeded
   description: Memory Limit Exceeded（超出空间限制）评测状态的缩写。
   sources:
   - https://atcoder.jp/contests/abc001/glossary
-  - https://www.luogu.com.cn/blog/luogu/luogu-help
+  - https://help.luogu.com.cn/manual/luogu/problem/judging
 - name: TLE
   short_description: Time Limit Exceeded
   description: Time Limit Exceeded（超出时间限制）评测状态的缩写。
   sources:
   - https://atcoder.jp/contests/abc001/glossary
-  - https://www.luogu.com.cn/blog/luogu/luogu-help
+  - https://help.luogu.com.cn/manual/luogu/problem/judging
 - name: UKE
   short_description: Unknown Error
   description: Unknown Error（出现未知错误）评测状态的缩写。常用于表示运气不好。
   sources:
-  - https://www.luogu.com.cn/blog/luogu/luogu-help
+  - https://help.luogu.com.cn/manual/luogu/problem/judging
 - name: IE
   short_description: Internal Error
   description: Internal Error（内部错误，评测系统错误）评测状态的缩写。
@@ -38,31 +38,31 @@
   short_description: Partially Correct
   description: Partially Correct（部分正确）评测状态的缩写。
   sources:
-  - https://www.luogu.com.cn/blog/luogu/luogu-help
+  - https://help.luogu.com.cn/manual/luogu/problem/judging
 - name: WA
   short_description: Wrong Answer
   description: Wrong Answer（答案错误）评测状态的缩写。
   sources:
   - https://atcoder.jp/contests/abc001/glossary
-  - https://www.luogu.com.cn/blog/luogu/luogu-help
+  - https://help.luogu.com.cn/manual/luogu/problem/judging
 - name: RE
   short_description: Runtime Error
   description: Runtime Error（运行时错误）评测状态的缩写。
   sources:
   - https://atcoder.jp/contests/abc001/glossary
-  - https://www.luogu.com.cn/blog/luogu/luogu-help
+  - https://help.luogu.com.cn/manual/luogu/problem/judging
 - name: OLE
   short_description: Output Limit Exceeded
   description: Output Limit Exceeded（输出超过限制）评测状态的缩写。
   sources:
   - https://atcoder.jp/contests/abc001/glossary
-  - https://www.luogu.com.cn/blog/luogu/luogu-help
+  - https://help.luogu.com.cn/manual/luogu/problem/judging
 - name: AK
   short_description: 全部 AC
   description: All-Killed 的缩写，通常指在信息学竞赛中获得满分（即AC了所有题目）。
   sources:
   - https://baike.baidu.com/item/AK/18224776
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: cpp
   short_description: C++
   description: 一般指编程语言 C++。
@@ -77,7 +77,7 @@
   short_description: 信息学竞赛生
   description: 指学信息学竞赛（OI）的学生，故称为 OIer。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: OJ
   short_description: Online Judge
   description: Online Judge（在线评测系统）的缩写。
@@ -87,7 +87,7 @@
   short_description: Away From OI
   description: Away From OI 的缩写，指 OIer 退役。
   sources:
-  - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+  - https://www.luogu.com/article/lwr2bdre
 - name: AT
   short_description: AtCoder
   description: 一般指日本编程竞赛网站 AtCoder。
@@ -116,9 +116,14 @@
   sources:
   - https://oi-wiki.org/contest/oi/
   - https://baike.baidu.com/item/全国青少年信息学奥林匹克竞赛冬令营
-- name: CTSC
+- name: CTS
   short_description: 国际信息学奥林匹克竞赛中国队选拔赛
-  description: 指国际信息学奥林匹克竞赛中国队选拔赛（CTSC）。
+  description: 国际信息学奥林匹克竞赛中国队选拔赛（CTS），旧称 CTSC。
+  sources:
+  - https://oi-wiki.org/contest/oi/
+- name: CTSC
+  short_description: 国际信息学奥林匹克竞赛中国队选拔赛（旧称）
+  description: 国际信息学奥林匹克竞赛中国队选拔赛（CTS），旧称 CTSC。
   sources:
   - https://oi-wiki.org/contest/oi/
 - name: IOI
@@ -141,3 +146,33 @@
   description: 指亚太地区信息学奥林匹克（APIO）。
   sources:
   - https://oi-wiki.org/contest/oi/
+- name: ub
+  short_description: Undefined Behavior
+  description: ub 即 Undefined Behavior，指 C++ 中程序未定义行为，程序“不同机器上运行结果不同”“开O2后反而WA”大都与此有关。
+  sources:
+  - https://www.luogu.com.cn/blog/StudyingFather/undefined-behavior
+  - https://www.luogu.com/article/lwr2bdre
+- name: O2
+  short_description: Optimization Level 2
+  description: O2 即 Optimization Level 2，是 GCC/Clang 编译器常见的优化选项。详见参考链接。
+  sources:
+  - https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html
+  - https://stackoverflow.com/questions/15548023/clang-optimization-levels
+- name: O3
+  short_description: Optimization Level 3
+  description: O3 即 Optimization Level 3，是 GCC/Clang 编译器常见的优化选项。详见参考链接。
+  sources:
+  - https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html
+  - https://stackoverflow.com/questions/15548023/clang-optimization-levels
+- name: O3
+  short_description: Optimization Level 3
+  description: O3 即 Optimization Level 3，是 GCC/Clang 编译器常见的优化选项。详见参考链接。
+  sources:
+  - https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html
+  - https://stackoverflow.com/questions/15548023/clang-optimization-levels
+- name: 位运算
+  short_decscription: 基于整数的二进制表示进行的运算
+  description: 位运算就是基于整数的二进制表示进行的运算。由于计算机内部就是以二进制来存储数据，位运算是相当快的。基本的位运算共 6 种，分别为按位与、按位或、按位异或、按位取反、左移和右移。
+  sources:
+  - https://oi-wiki.org/math/bit/
+  - https://www.runoob.com/w3cnote/bit-operation.html
