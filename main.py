@@ -7,7 +7,7 @@ from PySide6.QtWidgets import *
 from api import load_database, search
 from ui_MainWindow import Ui_MainWindow
 
-__version__ = '0.3.0'
+__version__ = '0.3.1'
 
 class ResultWidget(QWidget):
     nameFont = QFont('Consolas', 16)
