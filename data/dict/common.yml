@@ -171,26 +171,8 @@
   - https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html
   - https://stackoverflow.com/questions/15548023/clang-optimization-levels
 - name: 位运算
-  short_decscription: 基于整数的二进制表示进行的运算
+  short_description: 基于整数的二进制表示进行的运算
   description: 基于整数的二进制表示进行的运算。由于计算机内部就是以二进制来存储数据，位运算是相当快的。基本的位运算共 6 种，分别为按位与、按位或、按位异或、按位取反、左移和右移。
   sources:
   - https://oi-wiki.org/math/bit/
   - https://www.runoob.com/w3cnote/bit-operation.html
-- name: CCF
-  short_decscription: 中国计算机学会
-  description: 中国计算机学会 (China Computer Federation)。
-  sources:
-  - https://www.ccf.org.cn/
-  - https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E4%BC%9A/1594491
-- name: THU
-  short_decscription: 清华大学
-  description: 清华大学 (Tsinghua University)。
-  sources:
-  - https://www.tsinghua.edu.cn/
-  - https://baike.baidu.com/item/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/111764
-- name: PKU
-  short_decscription: 北京大学
-  description: 北京大学 (Peking University)。
-  sources:
-  - https://www.pku.edu.cn/
-  - https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/110221

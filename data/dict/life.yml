@@ -156,3 +156,21 @@
   sources:
   - https://www.zhihu.com/question/300386716
   - https://zhidao.baidu.com/question/1546903811628290187.html
+- name: CCF
+  short_description: 中国计算机学会
+  description: 中国计算机学会 (China Computer Federation)。
+  sources:
+  - https://www.ccf.org.cn/
+  - https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E4%BC%9A/1594491
+- name: THU
+  short_description: 清华大学
+  description: 清华大学 (Tsinghua University)。
+  sources:
+  - https://www.tsinghua.edu.cn/
+  - https://baike.baidu.com/item/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/111764
+- name: PKU
+  short_description: 北京大学
+  description: 北京大学 (Peking University)。
+  sources:
+  - https://www.pku.edu.cn/
+  - https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/110221
